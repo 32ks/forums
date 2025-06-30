@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>32k Forums @32k Network – Minecraft Server Forum for Players & Servers</title>
+  <meta name="description" content="32k Network is a Minecraft-focused forum for players, servers, and communities. Discuss gameplay, post your server, and connect with others." />
+  <meta name="keywords" content="minecraft, minecraft forum, minecraft community, 32k network, 32k.xyz, minecraft discussion, minecraft players, minecraft servers" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://forums.32k.xyz/" />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #0C0011;
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    src="https://three2k-forum.onrender.com/"
+    title="32k Network Forum"
+    loading="lazy"
+    sandbox="allow-same-origin allow-scripts allow-forms allow-popups"
+  ></iframe>
+</body>
+</html>
